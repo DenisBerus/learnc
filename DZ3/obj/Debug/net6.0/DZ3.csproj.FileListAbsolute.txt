@@ -1,0 +1,15 @@
+/Users/denisbers/mp/learnc/DZ3/obj/Debug/net6.0/DZ3.csproj.AssemblyReference.cache
+/Users/denisbers/mp/learnc/DZ3/obj/Debug/net6.0/DZ3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisbers/mp/learnc/DZ3/obj/Debug/net6.0/DZ3.AssemblyInfoInputs.cache
+/Users/denisbers/mp/learnc/DZ3/obj/Debug/net6.0/DZ3.AssemblyInfo.cs
+/Users/denisbers/mp/learnc/DZ3/obj/Debug/net6.0/DZ3.csproj.CoreCompileInputs.cache
+/Users/denisbers/mp/learnc/DZ3/bin/Debug/net6.0/DZ3
+/Users/denisbers/mp/learnc/DZ3/bin/Debug/net6.0/DZ3.deps.json
+/Users/denisbers/mp/learnc/DZ3/bin/Debug/net6.0/DZ3.runtimeconfig.json
+/Users/denisbers/mp/learnc/DZ3/bin/Debug/net6.0/DZ3.dll
+/Users/denisbers/mp/learnc/DZ3/bin/Debug/net6.0/DZ3.pdb
+/Users/denisbers/mp/learnc/DZ3/obj/Debug/net6.0/DZ3.dll
+/Users/denisbers/mp/learnc/DZ3/obj/Debug/net6.0/refint/DZ3.dll
+/Users/denisbers/mp/learnc/DZ3/obj/Debug/net6.0/DZ3.pdb
+/Users/denisbers/mp/learnc/DZ3/obj/Debug/net6.0/DZ3.genruntimeconfig.cache
+/Users/denisbers/mp/learnc/DZ3/obj/Debug/net6.0/ref/DZ3.dll
